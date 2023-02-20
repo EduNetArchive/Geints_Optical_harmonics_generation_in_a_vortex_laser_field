@@ -1,2 +1,2 @@
-# Geints_Optical_harmonics_generation_in_a_vortex_laser_field
+# Ilia Geints — Optical harmonics generation in a vortex laser field
 ...
